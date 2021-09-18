@@ -1,0 +1,23 @@
+{
+  "name": "aplicacaonodeaula",
+  "version": "1.0.0",
+  "description": "Aplicativo node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiajeje/AplicacaoNode.git"
+  },
+  "keywords": [
+    "\"Aplicacao",
+    "node\""
+  ],
+  "author": "Thiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiajeje/AplicacaoNode/issues"
+  },
+  "homepage": "https://github.com/thiajeje/AplicacaoNode#readme"
+}
