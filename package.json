@@ -4,15 +4,15 @@
   "description": "Aplicativo node",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test:ci": "jest --ci --coverage --coverageReporters=html --coverageReporters=lcov"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thiajeje/AplicacaoNode.git"
   },
   "keywords": [
-    "\"Aplicacao",
-    "node\""
+    "Aplicacao",
+    "node"
   ],
   "author": "Thiago",
   "license": "ISC",
