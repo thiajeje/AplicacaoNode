@@ -4,7 +4,7 @@
   "description": "Aplicativo node",
   "main": "app.js",
   "scripts": {
-    "test:ci": "jest --ci --coverage --coverageReporters=html --coverageReporters=lcov"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/thiajeje/AplicacaoNode/issues"
   },
-  "homepage": "https://github.com/thiajeje/AplicacaoNode#readme"
+  "homepage": "https://github.com/thiajeje/AplicacaoNode#readme",
+  "dependencies": {
+    "jest": "^27.2.0"
+  }
 }
